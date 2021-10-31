@@ -1,0 +1,48 @@
+.footer-credits-popup {
+    position: absolute;
+    left: 50%;
+    top: 275%;
+     /* top : needed to be changed after final integration  */
+    transform: translate(-50%, 10%);
+    opacity: 0;
+    transition: all 0.5s;
+    backface-visibility: hidden;
+    background-color: rgb(146, 47, 22);
+    margin-bottom: 5rem;
+    text-align: center;
+    border-radius: 3px;
+    align-items: center;
+    width: 300px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  .footer-credits-popup-heading {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size:1.5rem;
+    background-color: rgb(146, 47, 22);
+    color:white;
+  }
+  
+  .footer-credits-popup-details{
+    align-items: center;
+    width: 220px;
+    padding-top: 0.5rem;
+    background-color: rgb(146, 47, 22);
+    color: white;
+    font-size: 1rem;
+    transform: translateX(2.5rem);
+    padding-bottom: 1rem;
+    
+  }
+  #trigger:hover + #popup {
+    z-index: 1;
+    opacity: 1;
+    transform: translate(-50%, -10%);
+    text-decoration:none;
+  }
+  @media screen and (max-width:990px){
+    .footer-credits-popup {
+      top:100%;
+    }
+  }
+  
