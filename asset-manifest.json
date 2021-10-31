@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sf2022nwpintegrated/static/css/main.c2c8ccf1.chunk.css",
-    "main.js": "/sf2022nwpintegrated/static/js/main.14810477.chunk.js",
-    "main.js.map": "/sf2022nwpintegrated/static/js/main.14810477.chunk.js.map",
+    "main.css": "/sf2022nwpintegrated/static/css/main.0a389592.chunk.css",
+    "main.js": "/sf2022nwpintegrated/static/js/main.717a2f1f.chunk.js",
+    "main.js.map": "/sf2022nwpintegrated/static/js/main.717a2f1f.chunk.js.map",
     "runtime-main.js": "/sf2022nwpintegrated/static/js/runtime-main.a4300cdf.js",
     "runtime-main.js.map": "/sf2022nwpintegrated/static/js/runtime-main.a4300cdf.js.map",
     "static/css/2.5da235b4.chunk.css": "/sf2022nwpintegrated/static/css/2.5da235b4.chunk.css",
@@ -12,9 +12,10 @@
     "static/js/3.bddb21dd.chunk.js.map": "/sf2022nwpintegrated/static/js/3.bddb21dd.chunk.js.map",
     "index.html": "/sf2022nwpintegrated/index.html",
     "static/css/2.5da235b4.chunk.css.map": "/sf2022nwpintegrated/static/css/2.5da235b4.chunk.css.map",
-    "static/css/main.c2c8ccf1.chunk.css.map": "/sf2022nwpintegrated/static/css/main.c2c8ccf1.chunk.css.map",
+    "static/css/main.0a389592.chunk.css.map": "/sf2022nwpintegrated/static/css/main.0a389592.chunk.css.map",
     "static/js/2.64a0f212.chunk.js.LICENSE.txt": "/sf2022nwpintegrated/static/js/2.64a0f212.chunk.js.LICENSE.txt",
     "static/media/Map.css": "/sf2022nwpintegrated/static/media/nwp_map_bg.7c10741c.png",
+    "static/media/footerpopupstyle.css": "/sf2022nwpintegrated/static/media/Poppins-Regular.8081832f.ttf",
     "static/media/ahemdabad.d8e773d9.png": "/sf2022nwpintegrated/static/media/ahemdabad.d8e773d9.png",
     "static/media/ambikasf.d594589e.jpg": "/sf2022nwpintegrated/static/media/ambikasf.d594589e.jpg",
     "static/media/amitsf.9a09f429.jpg": "/sf2022nwpintegrated/static/media/amitsf.9a09f429.jpg",
@@ -37,6 +38,7 @@
     "static/media/lucknow.e7d1f72c.png": "/sf2022nwpintegrated/static/media/lucknow.e7d1f72c.png",
     "static/media/map.08b5bc33.png": "/sf2022nwpintegrated/static/media/map.08b5bc33.png",
     "static/media/mumbai.315c6d8b.png": "/sf2022nwpintegrated/static/media/mumbai.315c6d8b.png",
+    "static/media/gallerystyle2.css": "/sf2022nwpintegrated/static/media/mwpmapbg2.d68f9c38.jpg",
     "static/media/nagpur.fb6ac5da.png": "/sf2022nwpintegrated/static/media/nagpur.fb6ac5da.png",
     "static/media/patinisf.b5f61395.jpg": "/sf2022nwpintegrated/static/media/patinisf.b5f61395.jpg",
     "static/media/patna.063570fd.png": "/sf2022nwpintegrated/static/media/patna.063570fd.png",
@@ -47,7 +49,7 @@
     "static/js/runtime-main.a4300cdf.js",
     "static/css/2.5da235b4.chunk.css",
     "static/js/2.64a0f212.chunk.js",
-    "static/css/main.c2c8ccf1.chunk.css",
-    "static/js/main.14810477.chunk.js"
+    "static/css/main.0a389592.chunk.css",
+    "static/js/main.717a2f1f.chunk.js"
   ]
 }
