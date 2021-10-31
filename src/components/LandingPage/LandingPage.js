@@ -21,9 +21,9 @@ const LandingPage = () => {
         
 
 
-//         <div >
-//             <Footer/>
-//         </div>
+        <div >
+             <Footer/>
+        </div>
         </div>
      );
 }
